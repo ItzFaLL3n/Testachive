@@ -1,3 +1,0 @@
-##Load LS
-Ls
-#help
